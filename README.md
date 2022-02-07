@@ -14,7 +14,7 @@
 ## [（9）Sping Mvc](https://github.com/zhongkai1010/onework-document/blob/master/Spring%20Boot%E4%B8%AD%E7%9A%84Web%E5%BA%94%E7%94%A8%E8%AF%B4%E6%98%8E%E5%92%8C%E4%BD%BF%E7%94%A8.md)
 ## [（10）Sping Boot](https://github.com/zhongkai1010/onework-document/blob/master/Spring%20Boot%20%E7%AE%80%E8%A6%81%E8%AF%B4%E6%98%8E%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93.md)
 ## [（11）Sping Data](https://github.com/zhongkai1010/onework-document/blob/master/Spring%20Data%20%E7%AE%80%E8%A6%81%E8%AF%B4%E6%98%8E%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93.md)
-## [(12）Sping Security](https://github.com/zhongkai1010/onework-document/blob/master/Spring%20Security%20%E7%AE%80%E8%A6%81%E8%AF%B4%E6%98%8E%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93.md)
+## [（12）Sping Security](https://github.com/zhongkai1010/onework-document/blob/master/Spring%20Security%20%E7%AE%80%E8%A6%81%E8%AF%B4%E6%98%8E%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93.md)
 # 三、Java 扩展知识
 ## [（1）IntelliJ IDEA 开发工具的使用](https://github.com/zhongkai1010/onework-document/blob/master/IntelliJ%20IDEA%20%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BD%BF%E7%94%A8.md)
 ## [（2）Lombok 功能介绍](https://github.com/zhongkai1010/onework-document/blob/master/Lombok%20%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D.md)
