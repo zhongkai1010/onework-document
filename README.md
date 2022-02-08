@@ -1,28 +1,29 @@
-# Java 开发学习与总结
+# Java开发学习总结与进阶技能
 # 一、简要说明 
 
 
-# 二、Java 开发组件
-## [（1）Java基础知识](https://github.com/zhongkai1010/onework-document/blob/master/Java%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
-## [（2）Java开发环境](https://github.com/zhongkai1010/onework-document/blob/master/Java%20%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.md)
-## [（3）Maven介绍与使用](https://github.com/zhongkai1010/onework-document/blob/master/Maven%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93.md)
-## [（4）MyBatis介绍与使用](https://github.com/zhongkai1010/onework-document/blob/master/MyBatis%20%E4%BB%8B%E7%BB%8D%E4%B8%8E%E6%80%BB%E7%BB%93.md)
-## [（5）MyBaits Plus使用与代码生成器](https://github.com/zhongkai1010/onework-document/blob/master/mybaits%20plus%E7%9A%84%E4%BD%BF%E7%94%A8%E4%B8%8E%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8%E6%89%A9%E5%B1%95.md)
-## [（6）Spring Framework概要汇总](https://github.com/zhongkai1010/onework-document/blob/master/Spring%20Framework%20%E6%A6%82%E8%A6%81%E6%B1%87%E6%80%BB.md)
-## [（7）Sping IOC](https://github.com/zhongkai1010/onework-document/blob/master/SpringFramework%E4%B9%8BIOC.md)
-## [（8）Sping AOP](https://github.com/zhongkai1010/onework-document/blob/master/SpringFramework%E4%B9%8BAOP.md)
-## [（9）Sping Mvc](https://github.com/zhongkai1010/onework-document/blob/master/Spring%20Boot%E4%B8%AD%E7%9A%84Web%E5%BA%94%E7%94%A8%E8%AF%B4%E6%98%8E%E5%92%8C%E4%BD%BF%E7%94%A8.md)
-## [（10）Sping Boot](https://github.com/zhongkai1010/onework-document/blob/master/Spring%20Boot%20%E7%AE%80%E8%A6%81%E8%AF%B4%E6%98%8E%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93.md)
-## [（11）Sping Data](https://github.com/zhongkai1010/onework-document/blob/master/Spring%20Data%20%E7%AE%80%E8%A6%81%E8%AF%B4%E6%98%8E%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93.md)
-## [（12）Sping Security](https://github.com/zhongkai1010/onework-document/blob/master/Spring%20Security%20%E7%AE%80%E8%A6%81%E8%AF%B4%E6%98%8E%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93.md)
+# 二、Java 基础组件
+* （1）[Java基础知识](https://github.com/zhongkai1010/onework-document/blob/master/Java%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
+* （2）[Java开发环境](https://github.com/zhongkai1010/onework-document/blob/master/Java%20%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.md)
+* （3）[Maven介绍与使用](https://github.com/zhongkai1010/onework-document/blob/master/Maven%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93.md)
+* （4）[MyBatis介绍与使用](https://github.com/zhongkai1010/onework-document/blob/master/MyBatis%20%E4%BB%8B%E7%BB%8D%E4%B8%8E%E6%80%BB%E7%BB%93.md)
+* （5）[MyBaits Plus使用与代码生成器](https://github.com/zhongkai1010/onework-document/blob/master/mybaits%20plus%E7%9A%84%E4%BD%BF%E7%94%A8%E4%B8%8E%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8%E6%89%A9%E5%B1%95.md)
+* （6）[Spring Framework概要汇总](https://github.com/zhongkai1010/onework-document/blob/master/Spring%20Framework%20%E6%A6%82%E8%A6%81%E6%B1%87%E6%80%BB.md)
+* （7）[Sping IOC](https://github.com/zhongkai1010/onework-document/blob/master/SpringFramework%E4%B9%8BIOC.md)
+* （8）[Sping AOP](https://github.com/zhongkai1010/onework-document/blob/master/SpringFramework%E4%B9%8BAOP.md)
+* （8）[Sping Web](https://github.com/zhongkai1010/onework-document/blob/master/Spring%20Boot%E4%B8%AD%E7%9A%84Web%E5%BA%94%E7%94%A8%E8%AF%B4%E6%98%8E%E5%92%8C%E4%BD%BF%E7%94%A8.md)
+* （9）[Sping Boot](https://github.com/zhongkai1010/onework-document/blob/master/Spring%20Boot%20%E7%AE%80%E8%A6%81%E8%AF%B4%E6%98%8E%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93.md)
+* （10）[Sping Data](https://github.com/zhongkai1010/onework-document/blob/master/Spring%20Data%20%E7%AE%80%E8%A6%81%E8%AF%B4%E6%98%8E%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93.md)
+* （11）[Sping Security](https://github.com/zhongkai1010/onework-document/blob/master/Spring%20Security%20%E7%AE%80%E8%A6%81%E8%AF%B4%E6%98%8E%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93.md)
+
 # 三、Java 扩展知识
-## [（1）IntelliJ IDEA 开发工具的使用](https://github.com/zhongkai1010/onework-document/blob/master/IntelliJ%20IDEA%20%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BD%BF%E7%94%A8.md)
-## [（2）Lombok 功能介绍](https://github.com/zhongkai1010/onework-document/blob/master/Lombok%20%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D.md)
+* （1）[IntelliJ IDEA 开发工具的使用](https://github.com/zhongkai1010/onework-document/blob/master/IntelliJ%20IDEA%20%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BD%BF%E7%94%A8.md)
+* （2）[Lombok 功能介绍](https://github.com/zhongkai1010/onework-document/blob/master/Lombok%20%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D.md)
+
 # 四、Java 微服务体系
 ## （1）相关框架介绍
-Spring Cloud
-
-Spring Cloud Alibaba
+* Spring Cloud
+* Spring Cloud Alibaba
 
 ## （2）服务注册与发现
 **Eureka：**官方宣布2.x不再开源（闭源），之前的版本已经停止更新；也就说Eureka将来更多的技术提升已经没有了。所以，如果希望注册中心有更多强大功能的话，还需要另辟蹊径 。
@@ -71,9 +72,9 @@ Spring Cloud Alibaba
 ## （1）Redis
 Redis 是一个开源（BSD 许可）的内存**数据结构存储**，用作数据库、缓存和消息代理。Redis 提供数据结构，例如 [字符串](https://redis.io/topics/data-types-intro#strings)、[散列](https://redis.io/topics/data-types-intro#hashes)、[列表](https://redis.io/topics/data-types-intro#lists)、[集合](https://redis.io/topics/data-types-intro#sets)、带范围查询的[排序集合、](https://redis.io/topics/data-types-intro#sorted-sets)[位图](https://redis.io/topics/data-types-intro#bitmaps)、[超日志](https://redis.io/topics/data-types-intro#hyperloglogs)、[地理空间索引](https://redis.io/commands/geoadd)和[流](https://redis.io/topics/streams-intro)。Redis 内置了[复制](https://redis.io/topics/replication)、[Lua 脚本](https://redis.io/commands/eval)、[LRU 驱逐](https://redis.io/topics/lru-cache)、[事务](https://redis.io/topics/transactions)和不同级别的[磁盘持久性](https://redis.io/topics/persistence)，并通过以下方式提供高可用性[Redis Sentinel](https://redis.io/topics/sentinel)和[Redis Cluster](https://redis.io/topics/cluster-tutorial)的自动分区。
 
-您可以 对这些类型运行**原子操作，例如**[附加到字符串](https://redis.io/commands/append)； [增加哈希值](https://redis.io/commands/hincrby)；[将元素推入列表](https://redis.io/commands/lpush)；[计算集交](https://redis.io/commands/sinter)[、](https://redis.io/commands/sunion)并 、[差](https://redis.io/commands/sdiff)；或[获取排序集中排名最高的成员](https://redis.io/commands/zrangebyscore)。
+您可以 对这些类型运行**原子操作，例如**[附加到字符串](https://redis.io/commands/append)； [增加哈希值](https://redis.io/commands/hincrby)；[将元素推入列表](https://redis.io/commands/lpush)；[计算集交](https://redis.io/commands/sinter)[、](https://redis.io/commands/sunion)并 、[差](https://redis.io/commands/sdiff)；或[获取排序集中排名最高的成员](https://redis.io/commands/zrangebyscore)。
 
-为了达到最佳性能，Redis 使用 **内存中的数据集**。根据您的用例，您可以通过定期[将数据集转储到磁盘](https://redis.io/topics/persistence#snapshotting) 或[将每个命令附加到基于磁盘的日志](https://redis.io/topics/persistence#append-only-file)来持久化数据。如果您只需要一个功能丰富的网络内存缓存，您也可以禁用持久性。
+为了达到最佳性能，Redis 使用 **内存中的数据集**。根据您的用例，您可以通过定期[将数据集转储到磁盘](https://redis.io/topics/persistence#snapshotting) 或[将每个命令附加到基于磁盘的日志](https://redis.io/topics/persistence#append-only-file)来持久化数据。如果您只需要一个功能丰富的网络内存缓存，您也可以禁用持久性。
 
 Redis 还支持[异步复制](https://redis.io/topics/replication)，具有非常快速的非阻塞首次同步、自动重新连接以及网络拆分上的部分重新同步。
 
@@ -86,7 +87,7 @@ Redis 还支持[异步复制](https://redis.io/topics/replication)，具有非�
 * [LRU 驱逐密钥](https://redis.io/topics/lru-cache)
 * [自动故障转移](https://redis.io/topics/sentinel)
 
-[您可以从大多数编程语言](https://redis.io/clients)中使用 Redis 。
+[您可以从大多数编程语言](https://redis.io/clients)中使用 Redis 。
 
 Redis 是用**ANSI C**编写的，可以在大多数 POSIX 系统（如 Linux、\*BSD 和 OS X）中运行，无需外部依赖。Linux 和 OS X 是 Redis 开发和测试最多的两个操作系统，我们**推荐使用 Linux 进行部署**。Redis 可以在 SmartOS 等 Solaris 派生系统中工作，但支持是\_尽最大努力\_。Windows 版本没有官方支持。
 ## （2）Kafka
@@ -168,7 +169,7 @@ Nacos 的关键特性包括:
 
 * **服务发现和服务健康监测**
 
-Nacos 支持基于 DNS 和基于 RPC 的服务发现。服务提供者使用 [原生SDK](https://nacos.io/zh-cn/docs/sdk.html)、[OpenAPI](https://nacos.io/zh-cn/docs/open-api.html)、或一个[独立的Agent TODO](https://nacos.io/zh-cn/docs/other-language.html)注册 Service 后，服务消费者可以使用[DNS TODO](https://nacos.io/zh-cn/docs/xx) 或[HTTP&API](https://nacos.io/zh-cn/docs/open-api.html)查找和发现服务。
+Nacos 支持基于 DNS 和基于 RPC 的服务发现。服务提供者使用 [原生SDK](https://nacos.io/zh-cn/docs/sdk.html)、[OpenAPI](https://nacos.io/zh-cn/docs/open-api.html)、或一个[独立的Agent TODO](https://nacos.io/zh-cn/docs/other-language.html)注册 Service 后，服务消费者可以使用[DNS TODO](https://nacos.io/zh-cn/docs/xx) 或[HTTP&API](https://nacos.io/zh-cn/docs/open-api.html)查找和发现服务。
 
 Nacos 提供对服务的实时的健康检查，阻止向不健康的主机或服务实例发送请求。Nacos 支持传输层 (PING 或 TCP)和应用层 (如 HTTP、MySQL、用户自定义）的健康检查。 对于复杂的云环境和网络拓扑环境中（如 VPC、边缘网络等）服务的健康检查，Nacos 提供了 agent 上报模式和服务端主动检测2种健康检查模式。Nacos 还提供了统一的健康检查仪表盘，帮助您根据健康状态管理服务的可用性及流量。
 
@@ -186,7 +187,7 @@ Nacos 提供了一个简洁易用的UI ([控制台样例 Demo](http://console.na
 
 动态 DNS 服务支持权重路由，让您更容易地实现中间层负载均衡、更灵活的路由策略、流量控制以及数据中心内网的简单DNS解析服务。动态DNS服务还能让您更容易地实现以 DNS 协议为基础的服务发现，以帮助您消除耦合到厂商私有服务发现 API 上的风险。
 
-Nacos 提供了一些简单的 [DNS APIs TODO](https://nacos.io/zh-cn/docs/xx) 帮助您管理服务的关联域名和可用的 IP:PORT 列表.
+Nacos 提供了一些简单的 [DNS APIs TODO](https://nacos.io/zh-cn/docs/xx) 帮助您管理服务的关联域名和可用的 IP:PORT 列表.
 
 * **服务及其元数据管理**
 
@@ -215,7 +216,10 @@ zuul主要实现的功能就是API Gateway(api网关)的功能
 
 # 六、Java容器化部署
 ## （1）Docker
+待定
 ## （2）K8S
+待定
+
 # 七、Java 大数据
 ## （1）ElasticSearch
 Elasticsearch 是一个分布式、高扩展、高实时的搜索与[数据分析](https://baike.baidu.com/item/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/6577123)引擎。它能很方便的使大量数据具有搜索、分析和探索的能力。充分利用Elasticsearch的水平伸缩性，能使数据在生产环境变得更有价值。Elasticsearch 的实现原理主要分为以下几个步骤，首先用户将数据提交到Elasticsearch 数据库中，再通过分词控制器去将对应的语句分词，将其权重和分词结果一并存入数据，当用户搜索数据时候，再根据权重将结果排名，打分，再将返回结果呈现给用户。
@@ -246,10 +250,10 @@ Apache Hadoop软件库是一个框架，该框架允许使用简单的编程模�
 * Hadoop分布式文件系统（HDFS™）：一种分布式文件系统，可提供对应用程序数据的高吞吐量访问。
 * Hadoop YARN：用于作业调度和群集资源管理的框架。
 * Hadoop MapReduce：基于YARN的系统，用于并行处理大数据集。
-* \*\*[Hadoop Ozone](https://hadoop.apache.org/ozone/)\*\*： \*\*[Hadoop](https://hadoop.apache.org/ozone/)\*\*的对象存储。
+* [Hadoop Ozone](https://hadoop.apache.org/ozone/)： [Hadoop](https://hadoop.apache.org/ozone/)的对象存储。
 
 ## （4）Spark
-Apache Spark 是一个快速的，通用的集群计算系统。它对 Java，Scala，Python 和 R 提供了的高层 API，并有一个经优化的支持通用执行图计算的引擎。它还支持一组丰富的高级工具，包括用于 SQL 和结构化数据处理的 [Spark SQL](http://spark.apachecn.org/#/sql-programming-guide.html)，用于机器学习的 [MLlib](http://spark.apachecn.org/#/ml-guide.html)，用于图计算的 [GraphX](http://spark.apachecn.org/#/graphx-programming-guide.html) 和 [Spark Streaming](http://spark.apachecn.org/#/streaming-programming-guide.html)。
+Apache Spark 是一个快速的，通用的集群计算系统。它对 Java，Scala，Python 和 R 提供了的高层 API，并有一个经优化的支持通用执行图计算的引擎。它还支持一组丰富的高级工具，包括用于 SQL 和结构化数据处理的 [Spark SQL](http://spark.apachecn.org/#/sql-programming-guide.html)，用于机器学习的 [MLlib](http://spark.apachecn.org/#/ml-guide.html)，用于图计算的 [GraphX](http://spark.apachecn.org/#/graphx-programming-guide.html) 和 [Spark Streaming](http://spark.apachecn.org/#/streaming-programming-guide.html)。
 
 ## （5）Hbase
 HBase是一个分布式的、面向列的开源数据库，该技术来源于 Fay Chang 所撰写的Google论文“Bigtable：一个结构化数据的[分布式存储系统](https://baike.baidu.com/item/%E5%88%86%E5%B8%83%E5%BC%8F%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9F/6608875)”。就像Bigtable利用了Google文件系统（File System）所提供的分布式数据存储一样，HBase在Hadoop之上提供了类似于Bigtable的能力。HBase是Apache的Hadoop项目的子项目。HBase不同于一般的关系数据库，它是一个适合于非结构化数据存储的数据库。另一个不同的是HBase基于列的而不是基于行的模式。
